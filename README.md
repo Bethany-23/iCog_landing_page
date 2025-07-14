@@ -1,1 +1,1 @@
-# iCog_landing_page
+# iCog_landing_page_redesign
